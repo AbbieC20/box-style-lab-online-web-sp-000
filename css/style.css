@@ -5,7 +5,9 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
+  background: "./images/white-wood.jpg"
 }
+
 
 .container, h1 {
   width: 80%;
